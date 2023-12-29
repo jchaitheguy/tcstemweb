@@ -6,9 +6,6 @@ import ColorWrapper from '../../components/Wrapper/ColorWrapper'
 
 export default function Home() {
 
-
-
-
   return (
     <main>
       <Navbar />
